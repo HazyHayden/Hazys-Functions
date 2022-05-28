@@ -1,9 +1,10 @@
 # Quick-Scoreboard-by-HazyHayden
-1. Install Both .mcpack 's.
-2. Double Click on both pack files to import them to your game.
-3. Make a new world with both Actionboard v1.5 resource pack and Hazy's Functions Behaviour Pack, or equip them to any already existing world.
-4. Enter the chat command "/function setup".
-5. Follow the steps in chat.
+1. Install this package as a .zip file.
+2. Extract the .zip to your desktop.
+3. Double Click on both .mcpack files to import them to your game.
+4. Make a new world with both Actionboard v1.5 resource pack and Hazy's Functions Behaviour Pack, or equip them to any already existing world.
+5. Enter the chat command "/function setup".
+6. Follow the steps in chat.
 
 
 Actionboard v1.5 is not made by me. Original Creators are PMK744#5874 & Nobu#1122.
